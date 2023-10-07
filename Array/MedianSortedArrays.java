@@ -1,7 +1,7 @@
 package LeetCodeInterviewQuestions.Array;
 
 import java.util.*;
-
+//Code for Median Sorted Arrays
 public class MedianSortedArrays {
     public static void main(String[] args) {
         int[] numsx = { 1, 3 };
